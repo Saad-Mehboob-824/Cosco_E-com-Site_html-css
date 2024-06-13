@@ -1,0 +1,156 @@
+.logo
+{
+	height: 100px;
+	margin-top: 20px;
+	margin-left: 520px;
+}	
+.login
+{
+	vertical-align: top;
+	height: 60px;
+	margin-left: 750px;
+	margin-top: 30px;
+}
+.login:hover{
+	opacity: 0.6;
+}
+.cart{
+	vertical-align: top;
+	height: 70px;
+	margin-top: 20px;
+}
+.cart:hover{
+	opacity: 0.6;
+}
+
+
+.Search{
+	vertical-align: top;
+	margin-top: 30px;
+	margin-left: 10px;
+	width: 300px;
+	height: 30px;
+	border-radius: 10px;
+
+
+}
+.bbbb{
+	width: 10px;
+	height: 10px;
+}
+
+.button{
+	margin-top: 38px;
+	background-color: white;
+	border-radius: 20px;
+
+}
+
+
+.comp{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.top{
+	
+	height: 100px;
+	width: 1250px;
+}
+
+
+.vertical
+{
+	width: 450px;       
+	height: 400px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.catagaries
+{
+	
+	width: 100px;
+}
+.catagaries:hover
+{
+	opacity: 0.4;
+}
+.vid
+{
+width: 700px;
+height: 400px;
+vertical-align: top;
+display: inline-block;
+}
+
+.video
+{
+width: 700px;
+height: 300px;
+display: inline-block;
+vertical-align: top;
+}
+.main
+{
+
+	background-color: rgb(235,249,255);
+	height: 1000px;
+	width: 1250px;
+}
+.template
+{
+	margin-top: 20px;
+	margin-right: 10px;
+	margin-left: 15px;
+	border-radius: 20px;
+	opacity: 0.6;
+	height: 350px;
+	width: 280px;	
+	display: inline-block;
+}
+
+.template:hover
+{
+	opacity: 1;
+}
+.img
+{
+
+	border-radius: 20px;
+	height: 200px;
+	width: 280px;
+	display: inline-block;	
+	vertical-align: top;
+}
+
+.align
+{
+	display: inline-block;	
+	vertical-align: top;
+	margin-left: 30;
+}
+.wish
+{
+     margin-left: 30px;
+	border-radius: 50px;
+	border : none;
+	background-color: white;
+	height: 30px;
+	width: 200px;
+	display: inline-block;	
+	vertical-align: top;	
+	opacity: 1;
+}
+
+.wish:hover
+{
+	background-color: rgb(211,239,253);
+	opacity: 1;
+	transition: 1;
+}
+.info
+{
+	background-color: rgb(1,1,1);
+	color: white;
+}
